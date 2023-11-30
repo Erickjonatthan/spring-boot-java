@@ -8,11 +8,11 @@
 		<version>3.1.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>med.voll</groupId>
+	<groupId>api.pgp</groupId>
 	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
-	<description>API Rest da aplicação Voll.med</description>
+	<description>API Rest da aplicação de projeto interdisciplinar</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
